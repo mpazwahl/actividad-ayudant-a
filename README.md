@@ -1,2 +1,2 @@
 # actividad-ayudant-a
-Repositoriocreado para subir la pácina creada de la ayudantía 3
+Repositoriocreado para subir la página creada de la ayudantía 3

@@ -1,0 +1,35 @@
+#cabecera {
+    color: rgb(255, 5, 5);
+    padding: 100px;
+}
+.destacado {
+    font-size: 50px;
+}
+#sep {
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 500px;
+    border: 1px solid blue;
+}
+#fondas{
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 500px;
+    margin-bottom: 20px;
+    border: 1px solid red;
+}
+#actividades{
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 500px;
+    margin-top: 20px;
+    border: 1px solid blue;
+}
+#fotos{
+    padding: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 500px;
+    border: 1px solid red;
+}
